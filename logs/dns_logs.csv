@@ -1,0 +1,4 @@
+timestamp,hostname,query_type,queried_domain,response_ip
+2025-01-12 10:15,host-01,A,malicious-site.com,45.67.23.12
+2025-01-12 10:16,host-01,A,phish-login.com,91.212.45.89
+2025-01-12 10:17,host-01,A,google.com,142.250.190.78

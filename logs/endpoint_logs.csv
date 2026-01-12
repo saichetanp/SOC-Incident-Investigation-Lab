@@ -1,0 +1,4 @@
+timestamp,hostname,process,command_line,parent_process
+2025-01-12 10:18,host-01,powershell.exe,powershell -enc aQBmACgA,winword.exe
+2025-01-12 10:19,host-01,cmd.exe,cmd /c whoami,explorer.exe
+2025-01-12 10:20,host-01,explorer.exe,,winlogon.exe

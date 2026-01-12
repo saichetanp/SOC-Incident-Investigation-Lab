@@ -1,0 +1,6 @@
+timestamp,username,source_ip,result,location,auth_type
+2025-01-10 02:14,user1,185.220.101.4,FAIL,Russia,Password
+2025-01-10 02:16,user1,185.220.101.4,FAIL,Russia,Password
+2025-01-10 02:18,user1,185.220.101.4,SUCCESS,Russia,Password
+2025-01-10 09:12,user2,10.10.5.23,SUCCESS,USA,MFA
+2025-01-10 09:15,user3,10.10.8.45,FAIL,USA,Password

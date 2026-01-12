@@ -1,0 +1,4 @@
+timestamp,sender,recipient,subject,attachment,link,delivery_status
+2025-01-12 08:30,billing@fakevendor.com,user@company.com,Invoice Attached,invoice.zip,http://malicious-site.com,Delivered
+2025-01-12 08:45,hr@company.com,user@company.com,Policy Update,,https://company.com/policy,Delivered
+2025-01-12 08:50,support@unknown.com,user@company.com,Account Verification,verify.html,http://phish-login.com,Delivered
