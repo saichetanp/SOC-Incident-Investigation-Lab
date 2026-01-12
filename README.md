@@ -110,4 +110,4 @@ This project mirrors how SOC analysts operate in enterprise environments by movi
 
 ## Author
 Sai Chetan Panathukula
-Security Analyst | SOC Analyst | Blue Team
+Security Analyst | SOC (L1 - L2) | Blue Team Analyst
